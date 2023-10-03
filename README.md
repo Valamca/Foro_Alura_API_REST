@@ -17,6 +17,11 @@
   - [Spring Security](https://start.spring.io/)
   - [Token JWT](https://jwt.io/)
 
+### Diseño de base de datos:
+
+![DeseñoBaseDeDatos](https://github.com/Valamca/Foro_Alura_API_REST/assets/129345721/3cdb9458-1b8a-44a6-990a-551a43c7c0ce)
+
+
 ### Descripción  :page_facing_up:
 
 El foro alura es un lugar donde todos los alumnos de la plataforma alura
